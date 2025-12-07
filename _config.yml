@@ -3,7 +3,7 @@ title: HYPER-OS
 SEOTitle: HYPER - 让联机更简单
 header-img: img/post-bg-desk.jpg
 email: Hyp1029382022@outlook.com
-description: 114515
+description: "极致的优化，只为给玩家带来更流畅的体验"
 keyword: "Heyupeng/贺煜鹏为腐竹请善待他"
 url: "https://hyper-server.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -61,12 +61,12 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: fales    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  enable: true    #是否开启Gitalk评论
+  clientID: Ov23liiYY68W0LxHSEDM                            #生成的clientID
+  clientSecret: 44a448e6d2fbb40b2f60ae26dd3c4ae3e3f6acf2    #生成的clientSecret
+  repo: HYPER-SERVER.github.io    #仓库名称
+  owner: HYPER-SERVER    #github用户名
+  admin: HYPER#SERVER
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
