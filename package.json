@@ -1,12 +1,12 @@
 {
-    "name": "by-blog",
-    "title": "BY Blog",
-    "author": "BY <qiubaiyingios@163.com>",
-    "version": "1.7.0",
-    "homepage": "http://qiubaiying.github.io",
+    "name": "HYPER-OS",
+    "title": "HYPER-OS",
+    "author": "BY <Hyp1029382022@outlook.com>",
+    "version": "1.9.0",
+    "homepage": "http://hyper-server.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
+        "url": "https://github.com/HYPER-SERVER/HYPER-SERVER.github.io"
     },
     "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
     "devDependencies": {
